@@ -18,7 +18,6 @@
 - **データベース**: MySQL
 - **フロントエンド**: Blade, Bootstrap
 - **認証**: Laravel Auth
-- **環境変数管理**: `.env`
 
 ---
 
